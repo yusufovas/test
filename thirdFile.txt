@@ -1,0 +1,1 @@
+This is thirdFile.txt non-empty
